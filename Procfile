@@ -1,1 +1,1 @@
-web: python exampbot.py
+worker: python exampbot.py
